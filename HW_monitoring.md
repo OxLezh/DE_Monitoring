@@ -19,8 +19,7 @@
 4. Ngnix
 
 ### Сделайте скриншот работающего dashboards docker containers grafana, перечислите метрики, которые там есть:
-![alt text](http://url/to/img.png)
-
+![Screenshot](https://github.com/OxLezh/DE_Monitoring/blob/main/Снимок%20экрана%202024-02-10%20144728.png)
 * CPU load, 
 * CPU cores,
 * running containers,
